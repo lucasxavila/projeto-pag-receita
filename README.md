@@ -1,4 +1,4 @@
-# Página de Receita - Cupcake de Café com Chantilly
+# Projeto Página de Receita - Cupcake de Café com Chantilly
 
 Este repositório contém um projeto simples de página web com HTML e CSS, apresentando uma receita completa de cupcake de café com chantilly.
 
