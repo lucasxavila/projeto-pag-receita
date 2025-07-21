@@ -1,5 +1,9 @@
 # Projeto - Página de Receita: Cupcake de Café com Chantilly
 
+<p align="center">
+   <img width="1111" height="946" alt="Captura de tela 2025-07-21 182153" src="https://github.com/user-attachments/assets/891890eb-b361-408b-8a4e-683c109daa50" />
+</p>
+
 Este repositório contém um projeto simples de página web com HTML e CSS, apresentando uma receita completa de cupcake de café com chantilly.
 
 ## Descrição
